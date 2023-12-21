@@ -1,0 +1,30 @@
+{
+  "name": "atenix",
+  "displayName": "atenix theme",
+  "description": "dark theme",
+  "version": "1.0.0",
+  "publisher": "atenix",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "atenix",
+    "atenix dark",
+    "color theme",
+    "vscode"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "atenix theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atenix theme-color-theme.json"
+      }
+    ]
+  }
+}
