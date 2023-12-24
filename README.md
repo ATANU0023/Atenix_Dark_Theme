@@ -5,7 +5,7 @@ Its dark theme for vs code , for the Developers.
 
 * Theme Demo 
 
-![Demo 1](<Screenshot 2023-12-21 220217.png>)
+![Demo 1](<atenix/Screenshot 2023-12-21 220217.png>)
 
 ![Demo 2](<Screenshot 2023-12-21 220728.png>)
 
