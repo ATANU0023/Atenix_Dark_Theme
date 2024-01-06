@@ -4,7 +4,7 @@
 # Atenix's vs code theme
 
 * Theme Demo
-* 
+  
 ![ATENIX_124509](https://github.com/ATANU0023/Atenix_Dark_Theme/assets/115628155/f2b84840-9da8-4214-99ea-b76e240361d6)
 
 ![Screenshot 2023-12-21 220217](https://github.com/ATANU0023/Atenix_Dark_Theme/assets/115628155/03d90f26-95b2-4306-bbee-8bcd09641dcb)
