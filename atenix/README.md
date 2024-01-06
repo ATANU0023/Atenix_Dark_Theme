@@ -2,9 +2,8 @@
 
 * Theme Demo 
 
-![Demo 1](<Screenshot 2023-12-21 220217.png>)
+![ATENIX_124509](https://github.com/ATANU0023/Atenix_Dark_Theme/assets/115628155/8119155c-8c96-4b22-b686-49940e64f50e)
 
-![Demo 2](<Screenshot 2023-12-21 220728.png>)
 
 ## Install
 
